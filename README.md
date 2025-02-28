@@ -8,7 +8,7 @@ This project detects diseases in sugarcane plants using deep learning. It suppor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Gokul7625/sugarcane_disease_detection.giGt
+   git clone https://github.com/Gokul7625/sugarcane_disease_detection.git
 
 
    <!-- D:\sugarcane_disease_detection\test_images -->
